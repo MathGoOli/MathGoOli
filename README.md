@@ -1,6 +1,7 @@
 - Hi, I’m @MathGoOli
+- I’m Frontend dev
 - I’m Python dev
-- I’m currently learning JS
+- I’m currently Backend
 - How to reach me https://www.linkedin.com/in/matheus-gomes-de-oliveira-039088b6/
 
 <!---
