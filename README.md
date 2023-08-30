@@ -25,5 +25,5 @@ Durante o curso de eng. mecânica decidi também aprender Python porque queria a
 Por ter gostado de programar e desenvolver sistemas pra outras pessoas, decidi fazer uma transição de carreira para Programador. Iniciei o curso Fullstack da Kenzie Academy Brasil para aprender a desenvolver tanto no Front end, quanto no Backend. Já possuo certificação como Desenvolvedor Front end com React, Styled components, Zod e estou cursando o Backend (atualmente com Express). 
 
 ## Contatos
-E-mail: matheuss456@hotmail.com
-Github: https://github.com/MathGoOli
+- E-mail: matheuss456@hotmail.com
+- Github: https://github.com/MathGoOli
