@@ -26,4 +26,4 @@ Por ter gostado de programar e desenvolver sistemas pra outras pessoas, decidi f
 
 ## Contatos
 - E-mail: matheuss456@hotmail.com
-- Github: https://github.com/MathGoOli
+- Linkedin: https://www.linkedin.com/in/matheus-gomes-de-oliveira-039088b6/
