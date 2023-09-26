@@ -1,5 +1,11 @@
 ## Sobre as Stacks
 
+### portfolios
+
+Frontend: https://github.com/MathGoOli-Frontend
+Backend: Em produção
+Random projects: https://github.com/MathGoOli-Random-projects
+
 ### Front-end
 
 - React
